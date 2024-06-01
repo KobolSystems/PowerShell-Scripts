@@ -1,5 +1,5 @@
 # PowerShell Scripts
-### Project: A Collection of PowerShell Scripts to make life a little easier <img alt="" align="right" src="https://img.shields.io/badge/Status-Perpetually%20in%20Development-informational?style=flat&logoColor=white&color=73398D" />
+### Project: PowerShell scripts to make life a little easier. <img alt="" align="right" src="https://img.shields.io/badge/Status-Perpetually%20in%20Development-informational?style=flat&logoColor=white&color=73398D" />
 
 
 <!-- Repo Cover Image -->
