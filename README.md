@@ -4,7 +4,7 @@
 
 <!-- Repo Cover Image -->
 <p style="background-color:rgba(22,22,22,1.00)" align="center">
-<img align="center" src="https://github.com/KobolSystems/PowerShell-Scripts/blob/main/PowerShell-Logo-Banner.png?raw=true" />
+<img align="center" src="https://github.com/KobolSystems/PowerShell-Scripts/blob/main/repoImage.png?raw=true" />
 </p>
 
 <!-- Repo Stats -->
